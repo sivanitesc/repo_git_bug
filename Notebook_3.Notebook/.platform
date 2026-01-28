@@ -2,12 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.1.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "Notebook_2",
-    "description": "fgdgdfgg",
+    "displayName": "Notebook_3",
     "sensitivityLabelId": "00000000-0000-0000-0000-000000000000"
   },
   "config": {
     "version": "2.1",
-    "logicalId": "f5719140-4922-8f67-4264-2acff5ed6e0a"
+    "logicalId": "62494f17-762b-9c5a-464a-da8d0940bc3c"
   }
 }
